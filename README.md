@@ -1,8 +1,8 @@
 # Oasis-Task_1  Calculator
 
-## Usage![2023-10-04 (5)](https://github.com/Harivignesh-33/Oasis-Task_1/assets/131459225/b8582327-78a7-435d-b57a-841a0aa043a4)
+## Preview![2023-10-04 (5)](https://github.com/Harivignesh-33/Oasis-Task_1/assets/131459225/b8582327-78a7-435d-b57a-841a0aa043a4)
 
-##preview the calcultor by below link
+## Preview the calcultor by below link
 https://harivignesh-33.github.io/Oasis-Task_1/
 
 
