@@ -2,6 +2,10 @@
 
 ## Usage![2023-10-04 (5)](https://github.com/Harivignesh-33/Oasis-Task_1/assets/131459225/b8582327-78a7-435d-b57a-841a0aa043a4)
 
+##preview the calcultor by below link
+https://harivignesh-33.github.io/Oasis-Task_1/
+
+
 
 ## Description
 This is a basic calculator application designed to perform standard arithmetic operations. It provides a user-friendly interface for performing calculations easily.
@@ -32,6 +36,5 @@ Contributions to this calculator app are welcome. If you'd like to improve its f
 
 Thank you for using the calculator app. We hope it simplifies your arithmetic calculations.
 
-https://harivignesh-33.github.io/Oasis-Task_1/
 
 
