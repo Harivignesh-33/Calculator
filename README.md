@@ -1,9 +1,9 @@
-#   Calculator
+# Oasis-Task_1  Calculator
 
-## Preview![2023-10-04 (5)](https://harivignesh-33.github.io/Calculator/)
+## Preview![2023-10-04 (5)](https://github.com/Harivignesh-33/Oasis-Task_1/assets/131459225/b8582327-78a7-435d-b57a-841a0aa043a4)
 
 ## Preview the calcultor by below link
-https://harivignesh-33.github.io/Oasis-Task_1/
+https://harivignesh-33.github.io/calculator/
 
 
 
@@ -35,6 +35,3 @@ Contributions to this calculator app are welcome. If you'd like to improve its f
 ---
 
 Thank you for using the calculator app. We hope it simplifies your arithmetic calculations.
-
-
-
